@@ -1,1 +1,4 @@
-
+IP
+Ports
+Subnets
+Cidr
